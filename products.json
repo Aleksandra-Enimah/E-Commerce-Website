@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+              "title": "Bridal spring suit",
+              "price": 350,
+              "image": { "fields": { "file": { "url": "./img/dress1.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress1(1).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+              "title": "Rock bridal outfit",
+              "price": 280,
+              "image": { "fields": { "file": { "url": "./img/dress2.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress2(2).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+              "title": "Classy bride",
+              "price": 410,
+              "image": { "fields": { "file": { "url": "./img/dress3.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress3(3).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+              "title": "La Femme dress",
+              "price": 240,
+              "image": { "fields": { "file": { "url": "./img/dress4.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress4(4).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+              "title": "Parisian Bride",
+              "price": 370,
+              "image": { "fields": { "file": { "url": "./img/dress5.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress5(5).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+              "title": "Elegant spring Bride",
+              "price": 420,
+              "image": { "fields": { "file": { "url": "./img/dress6.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress6(6).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+              "title": "Sailor Wedding",
+              "price": 350,
+              "image": { "fields": { "file": { "url": "./img/dress7.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress7(7).jpg" } } }
+            }
+          },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+              "title": "Small Royal Wedding",
+              "price": 490,
+              "image": { "fields": { "file": { "url": "./img/dress8.jpg" } } },
+              "image_overlay": { "fields": { "file": { "url": "./img/dress8(8).jpg" } } }
+            }
+          }      
+    ]
+}
